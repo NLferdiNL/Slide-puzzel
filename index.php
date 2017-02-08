@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Puzzel</title>
+<title>Puzzle</title>
 <style>
 canvas {
 	width:600px;
